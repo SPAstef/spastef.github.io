@@ -7,7 +7,7 @@ theme: minima
 #math_engine: mathjax
 
 base_url: /spastef.github.io
-repository: jsanz/spastef.github.io
+repository: spastef/spastef.github.io
 
 # Minima social links
 github_username: spastef
