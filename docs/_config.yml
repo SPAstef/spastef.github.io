@@ -33,3 +33,6 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - examples
+    - temp
+  
