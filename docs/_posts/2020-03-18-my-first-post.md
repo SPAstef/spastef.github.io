@@ -22,12 +22,6 @@ Images
 
 Maybe math?
 
-$$math$$
-
-\\[more math\\]
-
-$inline math$
-
-\\(more inline math\\)
+\\[\int_{-\infty}^{+\infty}{dx}\\]
 
 And so on...
