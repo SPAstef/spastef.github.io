@@ -22,5 +22,4 @@ Images
 
 Maybe math?
 
-\\[x + y = z\\]
 And so on...
