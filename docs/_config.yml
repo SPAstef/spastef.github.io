@@ -1,3 +1,36 @@
-theme: jekyll-theme-minimal
-title: SPAstef's home
-description: Hello There!
+title: SPAstef's Blog
+description: A blog about stuff that I like
+author: "Stefano Trevisani"
+
+theme: minima
+
+base_url: /spastef.github.io
+repository: jsanz/spastef.github.io
+
+# Minima social links
+github_username: spastef
+linkedin_username: stefano-trevisani
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
