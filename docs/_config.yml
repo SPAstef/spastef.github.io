@@ -25,6 +25,10 @@ header_pages:
   - _pages/about.md
   - _pages/archive.md
 
+markdown: kramdown
+kramdown:
+    math_engine: katex
+
 include:
     - _pages
 
