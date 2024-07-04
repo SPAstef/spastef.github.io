@@ -4,7 +4,7 @@ author: "Stefano Trevisani"
 
 theme: minima
 
-math_engine: mathjax
+#math_engine: mathjax
 
 base_url: /spastef.github.io
 repository: jsanz/spastef.github.io
