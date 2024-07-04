@@ -6,9 +6,16 @@
   MathJax = {
     tex: {
       macros: {
-        call: ["{#1\\left(#2\\right)}", 2],
-        dcall: "{#1\\left[#2\\right]}",
-        bcall: "{#1\\left{#2\\right}}",
+        parens: ["{\\left({#1}\\right)}", 1],
+        brackets: ["{\\left[{#1}\\right]}", 1],
+        braces: ["{\\left{{#1}\\right}}", 1],
+        pipes: ["{\\left\\lvert{#1}\\right\\rvert}", 1],
+        call: ["{#1\\parens{#2}}", 2],
+        dcall: ["{#1\\brackets{#2}}", 2],
+        bcall: ["{#1\\braces{#2}}", 2],
+        abs: ["{\\pipes{#1}}", 1],
+        legendre: ["{\\parens{\\frac{#1}{#2}}", 2],
+        set: ["{\\braces{#1}}", 1]
       }
     },
     svg: {
