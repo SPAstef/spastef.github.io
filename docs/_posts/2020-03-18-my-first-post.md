@@ -22,6 +22,6 @@ Images
 
 Maybe math?
 
-\\[math\\]
+$$math$$
 
 And so on...
