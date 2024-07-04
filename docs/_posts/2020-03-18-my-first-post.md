@@ -22,6 +22,6 @@ Images
 
 Maybe math?
 
-\\[\int_{-\infty}^{+\infty}{dx}\\]
+\\[F\left(\omega\right) = \int_{-\infty}^{+\infty}{e^{-2\pi{}i\omega{}t} dt}\\]
 
 And so on...
