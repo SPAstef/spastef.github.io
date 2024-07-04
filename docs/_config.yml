@@ -10,7 +10,6 @@ repository: jsanz/spastef.github.io
 # Minima social links
 github_username: spastef
 linkedin_username: stefano-trevisani
-rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
