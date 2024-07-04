@@ -293,6 +293,8 @@
   h6 {
     @include relative-font-size(1.0625);
   }
+
+  text-align: justify;
 }
 
 
