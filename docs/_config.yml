@@ -25,6 +25,8 @@ header_pages:
   - _pages/about.md
   - _pages/archive.md
 
+markdown: kramdown
+
 
 #markdown: kramdown
 #kramdown:
