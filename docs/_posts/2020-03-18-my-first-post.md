@@ -22,5 +22,5 @@ Images
 
 Maybe math?
 
-\[x + y = z\]
+\\[x + y = z\\]
 And so on...
