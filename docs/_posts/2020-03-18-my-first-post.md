@@ -24,6 +24,10 @@ Maybe math?
 
 $$math$$
 
-$$more math$$
+\\[more math\\]
+
+$inline math$
+
+\\(more inline math\\)
 
 And so on...
