@@ -5,6 +5,7 @@
 <script>
   MathJax = {
     tex: {
+      mtextInheritFont: true,
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       macros: {
         parens: ["{\\left(#1\\right)}", 1],
@@ -23,7 +24,12 @@
       }
     },
     svg: {
-      fontCache: 'global'
+      fontCache: 'global',
+      mtextInheritFont: true
     },
+    chtml:
+    {
+      mtextInheritFont: true
+    }
   };
 </script>
